@@ -1,13 +1,3 @@
-onlyfans.com
-tiktok.com
-9gag.com
-mask.icloud.com
-mask-h2.icloud.com
-mask.apple-dns.net
-mask-api.fe.apple-dns.net
-mask-t.apple-dns.net
-snapchat.com
-
 # tiktok
 tiktokcdn.com
 tiktokcdn-eu.com

@@ -4,5 +4,7 @@ posthog.com
 analyticssuitefrontend-pa
 id.google.com
 ogads-pa
+googletagmanager.com
+www.googletagmanager.com
 
 

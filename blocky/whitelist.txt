@@ -2,6 +2,7 @@ analytics.google.com
 google-analytics.com
 posthog.com
 us.posthog.com
+app-static-prod.posthog.com
 analyticssuitefrontend-pa
 id.google.com
 ogads-pa

@@ -1,6 +1,7 @@
 analytics.google.com
 google-analytics.com
 posthog.com
+us.posthog.com
 analyticssuitefrontend-pa
 id.google.com
 ogads-pa

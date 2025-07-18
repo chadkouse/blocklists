@@ -8,6 +8,6 @@ id.google.com
 ogads-pa
 googletagmanager.com
 www.googletagmanager.com
-pelotime.com
+*.pelotime.com
 
 

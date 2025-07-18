@@ -1,0 +1,3 @@
+*.pelotime.com
+*.onepeloton.com
+*.cdn.optimizely.com

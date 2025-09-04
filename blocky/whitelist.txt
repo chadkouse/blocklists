@@ -9,5 +9,7 @@ ogads-pa
 googletagmanager.com
 www.googletagmanager.com
 *.pelotime.com
+*.nintendo.com
+*.nintendo.net
 
 

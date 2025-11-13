@@ -11,5 +11,6 @@ app-static-prod.posthog.com
 *.pelotime.com
 *.nintendo.com
 *.nintendo.net
+cdn.cookielaw.org
 
 
